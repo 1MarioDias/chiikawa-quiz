@@ -1,0 +1,104 @@
+{
+  "quiz": [
+    {
+      "pergunta": "Quem é o protagonista principal de Chiikawa?",
+      "opcoes": [
+        "Hachiware",
+        "Chiikawa",
+        "Usagi",
+        "Kuma"
+      ],
+      "resposta_correta": "Chiikawa"
+    },
+    {
+      "pergunta": "Qual é a característica mais marcante do Usagi?",
+      "opcoes": [
+        "Está sempre a sorrir",
+        "Adora dormir",
+        "Diz \"Ushi!\" frequentemente",
+        "Queixa-se da vida"
+      ],
+      "resposta_correta": "Diz \"Ushi!\" frequentemente"
+    },
+    {
+      "pergunta": "O que é que os personagens de Chiikawa fazem para sobreviver?",
+      "opcoes": [
+        "Caçam monstros",
+        "Trabalham em escritórios",
+        "Cultivam vegetais",
+        "Pedem esmola na rua"
+      ],
+      "resposta_correta": "Caçam monstros"
+    },
+    {
+      "pergunta": "Qual destes personagens tem orelhas pontiagudas e uma personalidade otimista?",
+      "opcoes": [
+        "Chiikawa",
+        "Hachiware",
+        "Usagi",
+        "Kurimanju"
+      ],
+      "resposta_correta": "Hachiware"
+    },
+    {
+      "pergunta": "Qual destas comidas aparece frequentemente na série?",
+      "opcoes": [
+        "Hambúrguer",
+        "Sushi",
+        "Dango",
+        "Udon"
+      ],
+      "resposta_correta": "Dango"
+    },
+    {
+      "pergunta": "Como é que Chiikawa e os seus amigos ganham dinheiro?",
+      "opcoes": [
+        "Vendendo doces",
+        "A trabalhar em missões",
+        "A receber heranças",
+        "A jogar na lotaria"
+      ],
+      "resposta_correta": "A trabalhar em missões"
+    },
+    {
+      "pergunta": "Qual destes personagens é conhecido por ser muito enérgico e barulhento?",
+      "opcoes": [
+        "Usagi",
+        "Chiikawa",
+        "Hachiware",
+        "Ojisan"
+      ],
+      "resposta_correta": "Usagi"
+    },
+    {
+      "pergunta": "Como é que os personagens costumam reagir ao encontrar criaturas perigosas?",
+      "opcoes": [
+        "Fogem imediatamente",
+        "Tentam capturá-las para conseguir recompensas",
+        "Fazem amizade com elas",
+        "Escondem-se até que elas desapareçam"
+      ],
+      "resposta_correta": "Tentam capturá-las para conseguir recompensas"
+    },
+    {
+      "pergunta": "Qual destes elementos faz parte do universo de Chiikawa?",
+      "opcoes": [
+        "Magia",
+        "Robôs gigantes",
+        "Criaturas fofas e perigosas",
+        "Viagens no tempo"
+      ],
+      "resposta_correta": "Criaturas fofas e perigosas"
+    },
+    {
+      "pergunta": "O que significa 'Chiikawa'?",
+      "opcoes": [
+        "Pequeno e fofo",
+        "Guerreiro valente",
+        "Coelho corajoso",
+        "Amigo feliz"
+      ],
+      "resposta_correta": "Pequeno e fofo"
+    }
+  ]
+}

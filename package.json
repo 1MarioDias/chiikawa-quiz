@@ -1,0 +1,25 @@
+{
+  "name": "quiz-vue-tailwind",
+  "version": "1.0.0",
+  "description": "A single-page quiz application using Vue.js and Tailwind CSS.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.0",
+    "tailwindcss": "^2.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0"
+  },
+  "keywords": [
+    "vue",
+    "quiz",
+    "tailwindcss"
+  ],
+  "author": "Marito",
+  "license": "MIT"
+}
