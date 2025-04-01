@@ -6,7 +6,7 @@ This is a single-page quiz application built using Vue.js and Tailwind CSS. The 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/1MarioDias/chiikawa-quiz
    cd quiz-app
    ```
 
