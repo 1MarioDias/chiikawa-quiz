@@ -1,5 +1,5 @@
 {
-  "name": "quizz-vue-tailwind",
+  "name": "quiz-vue-tailwind",
   "version": "1.0.0",
   "description": "A single-page quiz application using Vue.js and Tailwind CSS.",
   "main": "src/main.js",
@@ -9,11 +9,14 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.0",
-    "tailwindcss": "^2.0.0"
+    "vue": "^3.3.0"
   },
   "devDependencies": {
-    "vite": "^2.0.0"
+    "@vitejs/plugin-vue": "^5.0.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.0.0",
+    "vite": "^6.2.4"
   },
   "keywords": [
     "vue",
