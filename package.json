@@ -1,5 +1,5 @@
 {
-  "name": "quiz-vue-tailwind",
+  "name": "quizz-vue-tailwind",
   "version": "1.0.0",
   "description": "A single-page quiz application using Vue.js and Tailwind CSS.",
   "main": "src/main.js",
